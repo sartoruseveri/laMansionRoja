@@ -1,2 +1,8 @@
-La Mansion Roja Web
+La Mansión Roja Web
 ===================
+
+# Descripción:
+
+# Tecnologías:
+
+# Autores:
